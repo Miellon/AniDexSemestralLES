@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Index"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="INDEX"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CadastrarAnimal"
+        android:title="CADASTRAR ANIMAL"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CompararAnimais"
+        android:title="COMPARAR ANIMAIS"
+        app:showAsAction="never" />
+</menu>

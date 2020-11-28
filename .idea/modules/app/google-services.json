@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123216504684",
+    "firebase_url": "https://projsemestralles.firebaseio.com",
+    "project_id": "projsemestralles",
+    "storage_bucket": "projsemestralles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123216504684:android:2df70a9363367e271e7549",
+        "android_client_info": {
+          "package_name": "com.example.projsemestralles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123216504684-fci5oigbrhela2a253rrsreha8jak4mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projsemestralles",
+            "certificate_hash": "b232bfc0c1364d7372bb67c59ff27a999a46f800"
+          }
+        },
+        {
+          "client_id": "123216504684-ce5j4buampidj8tsq830cjtdbp7h0k75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3ewGdaDKN3fo9TVCKHk194ojKkwe-7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123216504684-ce5j4buampidj8tsq830cjtdbp7h0k75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
